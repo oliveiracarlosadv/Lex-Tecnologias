@@ -1,0 +1,46 @@
+name: Solicitar acesso a um sistema
+description: Peça o instalador de um sistema de distribuição restrita ou uma demonstração.
+title: "[Acesso] "
+labels: ["acesso"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Não escreva aqui CPF, telefone, senhas ou dados de clientes: este pedido é público.
+        Depois que você enviar, a Lex Tecnologias responde por aqui com as orientações.
+  - type: dropdown
+    id: sistema
+    attributes:
+      label: Sistema
+      options:
+        - Lex Calendário
+        - Lex Detetive
+        - Lex Audio
+        - TalkEncript
+        - Lex Messenger
+        - Não Esquece Adv
+        - Lex Vade Mecum
+        - PJe-Calc Cidadão para Mac
+        - AMT Desktop
+    validations:
+      required: true
+  - type: dropdown
+    id: so
+    attributes:
+      label: Sistema operacional
+      options:
+        - Windows
+        - Mac (Apple Silicon)
+        - Mac (Intel)
+        - Linux
+        - Android
+        - iPhone
+    validations:
+      required: true
+  - type: textarea
+    id: uso
+    attributes:
+      label: Como pretende usar
+      description: Ex.: advogado autônomo, escritório com 3 pessoas, departamento jurídico.
+    validations:
+      required: true
