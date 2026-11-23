@@ -20,6 +20,7 @@ Este repositório é a página inicial dos sistemas da **Lex Tecnologias**: o qu
 | <img src="assets/img/icones/inteligencia-claude.png" width="28"> | [Inteligência Claude](https://oliveiracarlosadv.github.io/Lex-Tecnologias/inteligencia-claude.html) | Biblioteca de skills para o Claude voltadas à advocacia: instale uma vez e o Claude passa a trabalhar como especialista. | Baixar todas as skills (.zip): https://github.com/oliveiracarlosadv/InteligenciaClaude/releases/latest/download/todas-as-skills.zip |
 | <img src="assets/img/icones/pjecalc.png" width="28"> | [PJe-Calc Cidadão para Mac](https://oliveiracarlosadv.github.io/Lex-Tecnologias/pjecalc-mac.html) | O programa oficial de cálculos trabalhistas da Justiça do Trabalho, instalado no Mac como aplicativo do sistema. | Baixar o instalador para Mac: https://github.com/oliveiracarlosadv/PJE-Calc-Cidad-o-2.16.0---Apple-Silicon/releases/latest |
 | <img src="assets/img/icones/amt.png" width="28"> | [AMT Desktop](https://oliveiracarlosadv.github.io/Lex-Tecnologias/amt-desktop.html) | Controle de centrais de alarme Intelbras da linha AMT pelo computador com Windows. | Solicitar o programa: https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml |
+| <img src="assets/img/icones/okena.png" width="28"> | [OKENA](https://oliveiracarlosadv.github.io/Lex-Tecnologias/okena.html) | Janela do Mundo Real: a vista e a sua selfie, no mesmo instante, em Stories prontos para postar. | Abrir a OKENA: https://oliveiracarlosadv.github.io/okena/ |
 
 ## Apoie o projeto
 

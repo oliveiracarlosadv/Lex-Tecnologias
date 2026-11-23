@@ -23,6 +23,7 @@ body:
         - Inteligência Claude
         - PJe-Calc Cidadão para Mac
         - AMT Desktop
+        - OKENA
     validations:
       required: true
   - type: dropdown
