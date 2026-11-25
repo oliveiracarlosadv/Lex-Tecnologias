@@ -24,6 +24,7 @@ body:
         - PJe-Calc Cidadão para Mac
         - AMT Desktop
         - OKENA
+        - ARANDU
     validations:
       required: true
   - type: dropdown
