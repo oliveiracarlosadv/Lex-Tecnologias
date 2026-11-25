@@ -231,3 +231,9 @@ Criado por **Carlos Alexandre Albuquerque Oliveira**, advogado em Belém do Par�
 ---
 
 <sub>O PJe-Calc Cidadão para Mac, a OKENA e o ARANDU são projetos independentes do fundador; o PJe-Calc não tem vínculo com a Justiça do Trabalho. Os sistemas são ferramentas de apoio: a conferência de prazos e publicações é sempre do advogado. Dúvidas ou sugestões: <a href="https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml">abra um pedido no GitHub</a>.</sub>
+
+## Licença
+
+Código licenciado sob a [Licença MIT](LICENSE) — © 2026 Carlos Alexandre Albuquerque Oliveira. Você pode usar, copiar, modificar e distribuir, inclusive para fins comerciais, desde que mantenha o aviso de direitos autorais e a licença.
+
+O nome, a marca e o logotipo do projeto **não** estão incluídos na licença e não podem ser usados para sugerir endosso ou vínculo sem autorização.
