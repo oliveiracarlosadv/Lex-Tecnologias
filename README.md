@@ -10,7 +10,7 @@
 Todas são <b>gratuitas e abertas</b>, sem cadastro e sem planos pagos — e os seus dados ficam no seu aparelho.</p>
 
 <p align="center">
-<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-calendario.html"><img src="assets/img/icones/calendario.png" width="44" alt="Lex Calendário" title="Lex Calendário"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-detetive.html"><img src="assets/img/icones/detetive.png" width="44" alt="Lex Detetive" title="Lex Detetive"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-audio.html"><img src="assets/img/icones/audio.png" width="44" alt="Lex Audio" title="Lex Audio"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/talkencript.html"><img src="assets/img/icones/talkencript.png" width="44" alt="TalkEncript" title="TalkEncript"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-messenger.html"><img src="assets/img/icones/messenger.png" width="44" alt="Lex Messenger" title="Lex Messenger"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/nao-esquece-adv.html"><img src="assets/img/icones/nao-esquece.png" width="44" alt="Não Esquece Adv" title="Não Esquece Adv"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-vade-mecum.html"><img src="assets/img/icones/vade-mecum.png" width="44" alt="Lex Vade Mecum" title="Lex Vade Mecum"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/inteligencia-claude.html"><img src="assets/img/icones/inteligencia-claude.png" width="44" alt="Inteligência Claude" title="Inteligência Claude"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/pjecalc-mac.html"><img src="assets/img/icones/pjecalc.png" width="44" alt="PJe-Calc Cidadão para Mac" title="PJe-Calc Cidadão para Mac"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/amt-desktop.html"><img src="assets/img/icones/amt.png" width="44" alt="AMT Desktop" title="AMT Desktop"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/okena.html"><img src="assets/img/icones/okena.png" width="44" alt="OKENA" title="OKENA"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/arandu.html"><img src="assets/img/icones/arandu.png" width="44" alt="ARANDU" title="ARANDU"></a>
+<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-calendario.html"><img src="assets/img/icones/calendario.png" width="44" alt="Lex Calendário" title="Lex Calendário"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-detetive.html"><img src="assets/img/icones/detetive.png" width="44" alt="Lex Detetive" title="Lex Detetive"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-audio.html"><img src="assets/img/icones/audio.png" width="44" alt="Lex Audio" title="Lex Audio"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/talkencript.html"><img src="assets/img/icones/talkencript.png" width="44" alt="TalkEncript" title="TalkEncript"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-messenger.html"><img src="assets/img/icones/messenger.png" width="44" alt="Lex Messenger" title="Lex Messenger"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/nao-esquece-adv.html"><img src="assets/img/icones/nao-esquece.png" width="44" alt="Não Esquece Adv" title="Não Esquece Adv"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-vade-mecum.html"><img src="assets/img/icones/vade-mecum.png" width="44" alt="Lex Vade Mecum" title="Lex Vade Mecum"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/inteligencia-claude.html"><img src="assets/img/icones/inteligencia-claude.png" width="44" alt="Inteligência Claude" title="Inteligência Claude"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/pjecalc-mac.html"><img src="assets/img/icones/pjecalc.png" width="44" alt="PJe-Calc Cidadão para Mac" title="PJe-Calc Cidadão para Mac"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/okena.html"><img src="assets/img/icones/okena.png" width="44" alt="OKENA" title="OKENA"></a>&nbsp;<a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/arandu.html"><img src="assets/img/icones/arandu.png" width="44" alt="ARANDU" title="ARANDU"></a>
 </p>
 
 ---
@@ -174,22 +174,6 @@ O programa oficial de cálculos trabalhistas da Justiça do Trabalho, instalado 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/img/icones/amt.png" width="64" align="left" alt="">
-
-### AMT Desktop
-<br clear="left">
-
-<sub>Programa de computador · Windows 10 e 11</sub>
-
-Controle de centrais de alarme Intelbras da linha AMT pelo computador com Windows.
-
-<a href="https://github.com/oliveiracarlosadv/AMT-Desktop/releases/latest"><img src="assets/img/readme/botao-amt-desktop.svg" alt="Baixar grátis: AMT Desktop"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/amt-desktop.html">Telas e manual</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <img src="assets/img/icones/okena.png" width="64" align="left" alt="">
 
 ### OKENA
@@ -202,6 +186,8 @@ Janela do Mundo Real: a vista e a sua selfie, no mesmo instante, em Stories pron
 <a href="https://oliveiracarlosadv.github.io/okena/"><img src="assets/img/readme/botao-okena.svg" alt="Abrir no navegador: OKENA"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/okena.html">Telas e manual</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <img src="assets/img/icones/arandu.png" width="64" align="left" alt="">
@@ -216,6 +202,7 @@ Seus documentos em Markdown otimizado para IA: menos tokens, mais inteligência,
 <a href="https://oliveiracarlosadv.github.io/Arandu/app/"><img src="assets/img/readme/botao-arandu.svg" alt="Abrir no navegador: ARANDU"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/arandu.html">Telas e manual</a>
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -243,4 +230,4 @@ Criado por **Carlos Alexandre Albuquerque Oliveira**, advogado em Belém do Par�
 
 ---
 
-<sub>O PJe-Calc Cidadão para Mac, o AMT Desktop e a OKENA são projetos independentes do fundador; o PJe-Calc e o AMT Desktop não têm vínculo com a Justiça do Trabalho nem com a Intelbras. Os sistemas são ferramentas de apoio: a conferência de prazos e publicações é sempre do advogado. Dúvidas ou sugestões: <a href="https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml">abra um pedido no GitHub</a>.</sub>
+<sub>O PJe-Calc Cidadão para Mac, a OKENA e o ARANDU são projetos independentes do fundador; o PJe-Calc não tem vínculo com a Justiça do Trabalho. Os sistemas são ferramentas de apoio: a conferência de prazos e publicações é sempre do advogado. Dúvidas ou sugestões: <a href="https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml">abra um pedido no GitHub</a>.</sub>
