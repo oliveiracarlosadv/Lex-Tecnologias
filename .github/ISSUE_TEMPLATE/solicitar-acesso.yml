@@ -1,6 +1,6 @@
-name: Solicitar acesso a um sistema
-description: Peça o instalador de um sistema de distribuição restrita ou uma demonstração.
-title: "[Acesso] "
+name: Pedido ou sugestão
+description: Dúvida, problema ou sugestão sobre um sistema da Lex Tecnologias.
+title: "[Pedido] "
 labels: ["acesso"]
 body:
   - type: markdown

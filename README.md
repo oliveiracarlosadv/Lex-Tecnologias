@@ -24,7 +24,7 @@ Todas são <b>gratuitas e abertas</b>, sem cadastro e sem planos pagos — e os 
 | 🔎 | Pesquisar e monitorar pessoas, empresas e processos | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-detetive.html"><img src="assets/img/icones/detetive.png" width="20" align="center" alt=""></a> **[Lex Detetive](https://oliveiracarlosadv.github.io/Lex-Detetive/app/)** |
 | 📚 | Consultar leis com o texto oficial atualizado | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-vade-mecum.html"><img src="assets/img/icones/vade-mecum.png" width="20" align="center" alt=""></a> **[Lex Vade Mecum](https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/)** |
 | 🎙️ | Transformar áudios em texto, sem internet | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-audio.html"><img src="assets/img/icones/audio.png" width="20" align="center" alt=""></a> **[Lex Audio](https://github.com/oliveiracarlosadv/LexAudio/releases/latest)** |
-| 🛡️ | Provar a integridade de uma conversa de WhatsApp | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/talkencript.html"><img src="assets/img/icones/talkencript.png" width="20" align="center" alt=""></a> **[TalkEncript](https://oliveiracarlosadv.github.io/TalkEncript-Verificar/)** |
+| 🛡️ | Provar a integridade de uma conversa de WhatsApp | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/talkencript.html"><img src="assets/img/icones/talkencript.png" width="20" align="center" alt=""></a> **[TalkEncript](https://github.com/oliveiracarlosadv/TalkEncript/releases/latest)** |
 | 💬 | Conversar com clientes pelo Telegram, sem distrações | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/lex-messenger.html"><img src="assets/img/icones/messenger.png" width="20" align="center" alt=""></a> **[Lex Messenger](https://github.com/oliveiracarlosadv/Lex-Messenger/releases/latest)** |
 | 📄 | Preparar PDFs e documentos para usar com IA | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/arandu.html"><img src="assets/img/icones/arandu.png" width="20" align="center" alt=""></a> **[ARANDU](https://oliveiracarlosadv.github.io/Arandu/app/)** |
 | ✨ | Fazer o Claude trabalhar como especialista jurídico | <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/inteligencia-claude.html"><img src="assets/img/icones/inteligencia-claude.png" width="20" align="center" alt=""></a> **[Inteligência Claude](https://github.com/oliveiracarlosadv/InteligenciaClaude/releases/latest/download/todas-as-skills.zip)** |
@@ -88,7 +88,7 @@ Transforme áudio em texto. Totalmente offline.
 
 Relatório de integridade de conversas exportadas, com hash e cadeia de custódia — prova digital pronta para os autos.
 
-<a href="https://oliveiracarlosadv.github.io/TalkEncript-Verificar/"><img src="assets/img/readme/botao-talkencript.svg" alt="Verificar relatório: TalkEncript"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/talkencript.html">Telas e manual</a>
+<a href="https://github.com/oliveiracarlosadv/TalkEncript/releases/latest"><img src="assets/img/readme/botao-talkencript.svg" alt="Verificar relatório: TalkEncript"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/talkencript.html">Telas e manual</a>
 
 </td>
 </tr>
@@ -183,7 +183,7 @@ O programa oficial de cálculos trabalhistas da Justiça do Trabalho, instalado 
 
 Controle de centrais de alarme Intelbras da linha AMT pelo computador com Windows.
 
-<a href="https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml"><img src="assets/img/readme/botao-amt-desktop.svg" alt="Solicitar grátis: AMT Desktop"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/amt-desktop.html">Telas e manual</a>
+<a href="https://github.com/oliveiracarlosadv/AMT-Desktop/releases/latest"><img src="assets/img/readme/botao-amt-desktop.svg" alt="Baixar grátis: AMT Desktop"></a>&nbsp; <a href="https://oliveiracarlosadv.github.io/Lex-Tecnologias/amt-desktop.html">Telas e manual</a>
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ Seus documentos em Markdown otimizado para IA: menos tokens, mais inteligência,
 
 | 🆓 Gratuitos | 🔓 Abertos | 🔒 Dados com você | 🧑‍⚖️ Feitos por quem advoga |
 |---|---|---|---|
-| Sem planos pagos, sem anúncios e sem cartão. | Uso livre e, na maioria, código público no GitHub para qualquer um conferir. | Sem servidor da Lex no meio: tudo fica no seu computador ou celular. | Linguagem simples e funções pensadas para prazos, intimações e processos. |
+| Sem planos pagos, sem anúncios e sem cartão. | Código público no GitHub, para qualquer um conferir. | Sem servidor da Lex no meio: tudo fica no seu computador ou celular. | Linguagem simples e funções pensadas para prazos, intimações e processos. |
 
 ## 💚 Apoie o projeto
 
@@ -243,4 +243,4 @@ Criado por **Carlos Alexandre Albuquerque Oliveira**, advogado em Belém do Par�
 
 ---
 
-<sub>O PJe-Calc Cidadão para Mac, o AMT Desktop e a OKENA são projetos independentes do fundador; o PJe-Calc e o AMT Desktop não têm vínculo com a Justiça do Trabalho nem com a Intelbras. Os sistemas são ferramentas de apoio: a conferência de prazos e publicações é sempre do advogado. Para pedir um sistema de distribuição restrita, use <a href="https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml">Solicitar acesso</a>.</sub>
+<sub>O PJe-Calc Cidadão para Mac, o AMT Desktop e a OKENA são projetos independentes do fundador; o PJe-Calc e o AMT Desktop não têm vínculo com a Justiça do Trabalho nem com a Intelbras. Os sistemas são ferramentas de apoio: a conferência de prazos e publicações é sempre do advogado. Dúvidas ou sugestões: <a href="https://github.com/oliveiracarlosadv/Lex-Tecnologias/issues/new?template=solicitar-acesso.yml">abra um pedido no GitHub</a>.</sub>
