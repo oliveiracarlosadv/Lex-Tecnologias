@@ -234,6 +234,6 @@ Criado por **Carlos Alexandre Albuquerque Oliveira**, advogado em Belém do Par�
 
 ## Licença
 
-Código licenciado sob a [Licença MIT](LICENSE) — © 2026 Carlos Alexandre Albuquerque Oliveira. Você pode usar, copiar, modificar e distribuir, inclusive para fins comerciais, desde que mantenha o aviso de direitos autorais e a licença.
+Conteúdo licenciado sob a [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE) — © 2026 Carlos Alexandre Albuquerque Oliveira. Você pode compartilhar e adaptar, inclusive para fins comerciais, desde que dê o crédito ao autor (com link para este repositório e para a licença) e indique se houve alterações.
 
-O nome, a marca e o logotipo do projeto **não** estão incluídos na licença e não podem ser usados para sugerir endosso ou vínculo sem autorização.
+O nome, a marca e o logotipo **não** estão incluídos na licença.
